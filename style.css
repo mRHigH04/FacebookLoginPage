@@ -67,12 +67,12 @@ html{
 }
 .login-box input{
     width: 95%;
-    height: 8vh;
+    height: 40px;
     border: 1px solid rgb(187, 187, 187);
     border-radius: 5px;
     padding-left: 1vw ;
     font-size: 17px;
-    margin-bottom: 3vh;
+    margin-bottom: 20px;
 }
 .login-box #login{
     background: #0373fb;
@@ -81,7 +81,7 @@ html{
     font-weight: bold;
     width: 100%;
     border-radius: 5px;
-    height: 8vh;
+    height: 40px;
     /* margin-top: 3vh; */
     font-size: 20px;
 }
@@ -95,9 +95,9 @@ html{
     color: white;
     border: 0px;
     border-radius: 5px;
-    height: 8vh;
+    height: 40px;
     width: 100%;
-    margin: 4vh 0 0 0;
+    margin: 15px 0 0 0;
     font-size: 17px;
     font-weight: bolder;
 }
@@ -118,7 +118,7 @@ html{
         margin: 0 2vw 0 3vw;
     }
     .top p{
-        font-size: 13px;
+        font-size: 15px;
         color: #0373fb;
     }
     .container{
@@ -148,24 +148,24 @@ html{
     }
     .login-box input{
         width: 80vw;
-        height: 4vh;
-        font-size: 4vw;
+        height: 40px;
+        font-size: 20px;
     }
     .login-box #login{
-        height: 5vh;
-        font-size: 5vw;
+        height: 40px;
+        font-size: 30px;
     }
     .right-side p{
-        font-size: 3vw;
+        font-size: 15px;
         margin-top: 20px;
     }
     .login-box p{
-        font-size: 4vw;
+        font-size: 20px;
         margin: 20px 0;
     }
     .login-box #new{
-        height: 5vh;
-        font-size: 5vw;
+        height: 40px;
+        font-size: 30px;
     } 
     
     
