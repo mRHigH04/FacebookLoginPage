@@ -9,11 +9,20 @@ html{
 .top{
     display: none;
 }
+.bg{
+    height: 100vh;
+    min-height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 50px 0; */
+}
 .container{
+    /* margin: 100px 0; */
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 100vh;
+    height: auto;
     width: 100vw;
     max-height: 1500px;
     /* min-width: 1000px; */
@@ -118,7 +127,7 @@ html{
         margin: 0 2vw 0 3vw;
     }
     .top p{
-        font-size: 15px;
+        font-size: 13px;
         color: #0373fb;
     }
     .container{
@@ -149,23 +158,23 @@ html{
     .login-box input{
         width: 80vw;
         height: 40px;
-        font-size: 20px;
+        font-size: 17px;
     }
     .login-box #login{
         height: 40px;
-        font-size: 30px;
+        font-size: 20px;
     }
     .right-side p{
-        font-size: 15px;
+        font-size: 13px;
         margin-top: 20px;
     }
     .login-box p{
-        font-size: 20px;
+        font-size: 15px;
         margin: 20px 0;
     }
     .login-box #new{
         height: 40px;
-        font-size: 30px;
+        font-size: 20px;
     } 
     
     
