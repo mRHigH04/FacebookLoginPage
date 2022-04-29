@@ -130,6 +130,11 @@ html{
         font-size: 13px;
         color: #0373fb;
     }
+    .bg{
+        /* align-items: baseline; */
+        /* height: calc(100vh - 40px); */
+        height: auto;
+    }
     .container{
         flex-direction: column;
         justify-content: center;
